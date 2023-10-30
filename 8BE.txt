@@ -7,9 +7,7 @@ FL,802,700,8BE,8BE,8ff,8ff
 OL,2,D]GMResultat                            
 OL,6,              Du fick:                  
 OL,9,            BB10/10Gpo{ng               
-OL,12,         EBBra jobbat!!! Fullpoäng!         
-OL,15,      Tryck p}Ar|dGknapp f|r att        
-OL,16,      spela igen                        
+OL,12,         EBBra jobbat!!! Fullpoäng!                            
 OL,18,      Tryck p}Bgr|nGknapp f|r att       
 OL,19,      v{lja ett annat quiz              
 OL,21,D]GM                                    
