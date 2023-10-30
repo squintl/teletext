@@ -3,7 +3,7 @@ PS,8100
 PN,8BA7F
 SC,3F7F
 RE,0
-FL,802,700,8AB,8AB,8ff,8ff
+FL,802,700,8BA,8BA,8ff,8ff
 OL,2,D]GMResultat                            
 OL,6,              Du fick:                  
 OL,9,            BB6/10Gpo{ng               
