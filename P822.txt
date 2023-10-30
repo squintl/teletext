@@ -1,0 +1,13 @@
+DE,
+PS,8100
+PN,8227F
+SC,3F7F
+RE,0
+FL,823,830,823,822,8ff,8ff
+OL,2,D]GMFr}ga 4                             
+OL,6,    Vad kallas de varselljus som nya bilar ofta har?                          
+OL,9,         Q5GH4               
+OL,12,         R5GDRL                
+OL,15,         S5GLAS                             
+OL,21,D]GMDu har 2 po{ng                      
+OL,24,A]        B]        C]        F] 

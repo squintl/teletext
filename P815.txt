@@ -1,0 +1,14 @@
+DE,
+PS,8100
+PN,8157F
+SC,3F7F
+RE,0
+FL,824,816,816,815,8ff,8ff
+OL,2,D]GMFr}ga 5                             
+OL,6,    Vilket av f|ljande {r ett system
+OL,7,    f|r avgas}terledning?                       
+OL,9,         Q5GEGR               
+OL,12,         R5GDPF                
+OL,15,         S5GADB                             
+OL,21,D]GMDu har 1 po{ng                      
+OL,24,A]        B]        C]        F] 

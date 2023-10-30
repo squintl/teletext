@@ -1,0 +1,15 @@
+DE,
+PS,8100
+PN,8527F
+SC,3F7F
+RE,0
+FL,855,856,855,854,8ff,8ff
+OL,2,D]GMFr}ga 9                             
+OL,6,    Vilken av f|ljande beskriver b{st en
+OL,7,    teknik som anv{nds i motorv{rmare f|r att
+OL,8,    t.ex. slippa skrapa rutorna p} vintern?                     
+OL,9,         Q5GHVAC           
+OL,12,         R5GPTC               
+OL,15,         S5GHEC                  
+OL,21,D]GMDu har 8 po{ng                      
+OL,24,A]        B]        C]        F] 

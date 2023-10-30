@@ -1,0 +1,13 @@
+DE,
+PS,8100
+PN,8047F
+SC,3F7F
+RE,0
+FL,816,805,805,804,8ff,8ff
+OL,2,D]GMFr}ga 3                             
+OL,6,    Vad kallas en stegl|s automatisk v{xell}da?                            
+OL,9,         Q5GCVT               
+OL,12,         R5GDSG                
+OL,15,         S5GPDK                             
+OL,21,D]GMDu har 0 po{ng                      
+OL,24,A]        B]        C]        F] 

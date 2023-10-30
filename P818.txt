@@ -1,0 +1,15 @@
+DE,
+PS,8100
+PN,8187F
+SC,3F7F
+RE,0
+FL,827,819,819,818,8ff,8ff
+OL,2,D]GMFr}ga 8                             
+OL,6,    D{cktrycket kontrolleras genom ett
+OL,7,    s{rskilt system i nya bilar. 
+OL,8,    Vad kallas det?                     
+OL,9,         Q5GTPMS             
+OL,12,         R5GTCS               
+OL,15,         S5GPMS                  
+OL,21,D]GMDu har 1 po{ng                      
+OL,24,A]        B]        C]        F] 

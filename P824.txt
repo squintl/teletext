@@ -1,0 +1,15 @@
+DE,
+PS,8100
+PN,8247F
+SC,3F7F
+RE,0
+FL,825,825,832,824,8ff,8ff
+OL,2,D]GMFr}ga 6                             
+OL,6,    Vilken av f|ljande f|rkortningar beskriver
+OL,7,    b{st ett system som |verf|r kraft till
+OL,8,    det eller de hjul som har b{st f{ste?                       
+OL,9,         Q5GAMT             
+OL,12,         R5GEPS                
+OL,15,         S5GLSD                           
+OL,21,D]GMDu har 2 po{ng                      
+OL,24,A]        B]        C]        F] 

@@ -1,0 +1,17 @@
+DE,
+PS,8100
+PN,8027F
+SC,3F7F
+RE,0
+FL,803,812,803,802,8ff,8ff
+OL,2,D]GMFr}ga 1                             
+OL,6,    Vad st}r Hondas VTEC f|r?                             
+OL,9,         Q5GVariable Timing 
+OL,10,             Engine Combustion                 
+OL,12,         R5GValve Timing 
+OL,13,             Electronically Controlled                 
+OL,15,         S5GVariable Technology for 
+OL,16,              Electronically Controlled
+OL,17,              Camshafts                                 
+OL,21,D]GMDu har 0 po{ng                      
+OL,24,A]        B]        C]        F] 

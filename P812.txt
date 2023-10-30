@@ -1,0 +1,13 @@
+DE,
+PS,8100
+PN,8127F
+SC,3F7F
+RE,0
+FL,813,813,821,812,8ff,8ff
+OL,2,D]GMFr}ga 2                             
+OL,6,    Hur brukar autobromssystem f|rkortas?                             
+OL,9,         Q5GACC               
+OL,12,         R5GABE                
+OL,15,         S5GAEB                              
+OL,21,D]GMDu har 1 po{ng                      
+OL,24,A]        B]        C]        F] 

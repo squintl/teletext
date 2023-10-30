@@ -1,0 +1,13 @@
+DE,
+PS,8100
+PN,8338F
+SC,3F7F
+RE,0
+FL,839,844,839,838,8ff,8ff
+OL,2,D]GMFr}ga 7                             
+OL,6,    Vad st}r SRS f|r?                     
+OL,9,         Q5GSafety Recovery System             
+OL,12,         R5GSupplemental Restraint System                
+OL,15,         S5GSafety Restraint System                          
+OL,21,D]GMDu har 4 po{ng                      
+OL,24,A]        B]        C]        F] 

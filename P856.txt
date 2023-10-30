@@ -1,0 +1,14 @@
+DE,
+PS,8100
+PN,8567F
+SC,3F7F
+RE,0
+FL,8BD,8BD,8BE,856,8ff,8ff
+OL,2,D]GMFr}ga 10                             
+OL,6,    "Ti" kan ibland st} p} Alfa Romeos 
+OL,7,    sportigare modeller. Vad st}r det f|r?                    
+OL,9,         Q5GTurbo Iniezione          
+OL,12,         R5GTorino Interno            
+OL,15,         S5GTurismo Internazionale               
+OL,21,D]GMDu har 9 po{ng                      
+OL,24,A]        B]        C]        F] 
