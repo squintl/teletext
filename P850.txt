@@ -3,7 +3,7 @@ PS,8100
 PN,8507F
 SC,3F7F
 RE,0
-FL,8BA,8BA,8BB,845,8ff,8ff
+FL,8BA,8BA,8BB,850,8ff,8ff
 OL,2,D]GMFr}ga 10                             
 OL,6,    "Ti" kan ibland st} p} Alfa Romeos 
 OL,7,    sportigare modeller. Vad st}r det f|r?                    
