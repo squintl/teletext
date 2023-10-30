@@ -3,7 +3,7 @@ PS,8100
 PN,8407F
 SC,3F7F
 RE,0
-FL,841,846,841,834,8ff,8ff
+FL,841,846,841,840,8ff,8ff
 OL,2,D]GMFr}ga 9                             
 OL,6,    Vilken av f|ljande beskriver b{st en
 OL,7,    teknik som anv{nds i motorv{rmare f|r att
