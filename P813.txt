@@ -3,7 +3,7 @@ PS,8100
 PN,8137F
 SC,3F7F
 RE,0
-FL,822,814,814,814,8ff,8ff
+FL,822,814,814,813,8ff,8ff
 OL,2,D]GMFr}ga 3                             
 OL,6,    Vad kallas en stegl|s automatisk v{xell}da?                            
 OL,9,         Q5GCVT               
