@@ -3,6 +3,7 @@ PS,8100
 PN,3007F
 SC,3F7F
 RE,0
-FL,8fe,8ff,8ff,8ff,8ff,8ff
+FL,8fe,5fe,8ff,8ff,8ff,8ff
 OL,8,          TEST sida     300             
-OL,13,                R\D KNAPP 8FE           
+OL,13,                R\D KNAPP 8FE 
+OL,15,         GR\N KNAPP 5FE TEST
